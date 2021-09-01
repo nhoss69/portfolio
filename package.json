@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^9.0.1",
+    "firebase-tools": "^9.16.6",
+    "init": "^0.1.2",
+    "login": "^0.8.0"
+  }
+}
